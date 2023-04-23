@@ -23,8 +23,8 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-![Desktop Design](./screenshot/desktop-design.png)
-![Mobile Design](./screenshot/mobile-design.png)
+![Desktop Design](./screenshot/desktop.png)
+![Mobile Design](./screenshot/mobile.png)
 
  
 ### Links
